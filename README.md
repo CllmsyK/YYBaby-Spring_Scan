@@ -1,4 +1,4 @@
-# YYBaby_v0.3 Spring_Scan Tools (春天大宝贝)
+# YYBaby_v0.3 Spring_Scan Tools
 
 ```txt
 1. Check All_Dirs unauthorized (151)；
