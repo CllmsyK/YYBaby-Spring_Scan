@@ -1,4 +1,4 @@
-# YYBaby_v0.3 Spring_Scan Tools
+# YYBaby_v0.6 Spring_Scan Tools
 
 ```txt
 1. Check All_Dirs unauthorized (151)；
@@ -20,6 +20,9 @@ Tools By：Cllmsy_K;
 2023/01/02/19:34_新增2个POC;修复读取流出错的问题;
 2023/01/12/20:11_更新0.3,修复1个bug,感谢Obl_53提供建议，修复Dir判断返回存在200拦截返回;
 2024/03/03/22:42_更新0.4,新增2个命令执行利用,5个反弹VPS利用方式,仍部分存在无法解决的问题;
+2024/04/09/23:37_更新0.5,优化Dir扫描结合人工判断路由,优化CVE-2022-22947打法,新增2个EXP;
+2024/04/11/18:20_更新0.6,新增内存马功能,添加Godzilla/CMD/Netty Memshell;
 ```
 Tools:
-![image](https://github.com/CllmsyK/YYBaby-Spring_Scan/assets/74504486/3c368430-68eb-460b-af3e-736798af6c8e)
+
+![微信图片编辑_20240513134512](https://github.com/CllmsyK/YYBaby-Spring_Scan/assets/74504486/f142b48c-0132-4032-8926-f8dbcfd9966c)
