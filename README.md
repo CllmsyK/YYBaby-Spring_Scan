@@ -1,8 +1,8 @@
-# YYBaby_v0.6 Spring_Scan Tools
+# YYBaby_v0.7 Spring_Scan Tools
 
 ```txt
-1. Check All_Dirs unauthorized (151)；
-2. POC(17)；
+1. Check All_Dirs unauthorized (167)；
+2. POC(20+)；
 2. Methods for Whitening or Ignoring SSL/TLS Certificate Issues；
 
 Tools By：Cllmsy_K;
@@ -16,12 +16,13 @@ Tools By：Cllmsy_K;
 2023/12/30/03:21_Cookie;UA;Times超时自定义;
 2023/12/31/00:39_提供fastjson/log4j2简单探测;log4j暂支持LDAP:9999段端口;
 2023/01/01/01:12_更新About小窗口;
-2023/01/02/12:18_增加15个POC测试包，不包含利用方法一致的测试;
+2023/01/02/12:18_增加15个POC测试包,不包含利用方法一致的测试;
 2023/01/02/19:34_新增2个POC;修复读取流出错的问题;
 2023/01/12/20:11_更新0.3,修复1个bug,感谢Obl_53提供建议，修复Dir判断返回存在200拦截返回;
 2024/03/03/22:42_更新0.4,新增2个命令执行利用,5个反弹VPS利用方式,仍部分存在无法解决的问题;
 2024/04/09/23:37_更新0.5,优化Dir扫描结合人工判断路由,优化CVE-2022-22947打法,新增2个EXP;
 2024/04/11/18:20_更新0.6,新增内存马功能,添加Godzilla/CMD/Netty Memshell;
+2024/06/07/23:35_更新0.7,新增实战中发现的前缀路由,0.4版本反馈UI界面bug,已添加使用提示;修复文件读取/路由探测bug;
 ```
 Tools:
 
