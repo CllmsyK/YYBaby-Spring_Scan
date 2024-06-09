@@ -1,5 +1,7 @@
 # YYBaby_v0.7 Spring_Scan Tools
 
+JDK1.8 win7/10/11测试暂无问题
+
 ```txt
 1. Check All_Dirs unauthorized (167)；
 2. POC(20+)；
