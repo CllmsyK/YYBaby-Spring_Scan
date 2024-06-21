@@ -1,4 +1,4 @@
-# YYBaby_v0.7 Spring_Scan Tools
+# YYBaby_v0.7.1 Spring_Scan Tools
 
 JDK1.8 win7/10/11测试暂无问题
 
@@ -25,8 +25,12 @@ Tools By：Cllmsy_K;
 2024/04/09/23:37_更新0.5,优化Dir扫描结合人工判断路由,优化CVE-2022-22947打法,新增2个EXP;
 2024/04/11/18:20_更新0.6,新增内存马功能,添加Godzilla/CMD/Netty Memshell;
 2024/06/07/23:35_更新0.7,新增实战中发现的前缀路由,0.4版本反馈UI界面bug,已添加使用提示;修复文件读取/路由探测bug;
+2024/06/21/23:30_更新0.7.1,感谢反馈,修复扫描中存在卡住的情况;
+
 ```
 Tools:
 
-![捕获](https://github.com/CllmsyK/YYBaby-Spring_Scan/assets/74504486/e769b853-ed82-4d83-b860-816719112c39)
+
+![1](https://github.com/CllmsyK/YYBaby-Spring_Scan/assets/74504486/aa9993bd-f571-424b-b56f-e4f610ef3485)
+
 
