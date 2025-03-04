@@ -1,22 +1,25 @@
-# YYBaby_v0.9 Spring_Scan Tools
+# YYBaby_v1.0 Spring_Scan Tools
+
+```txt
+
+From CllmsyK:
+    人生路漫漫，路遥知马力，曾登上过山顶，也跌落至谷底，没有一辈子的朋友，也没有一辈子的敌人，为了行业骄傲过也失望过，但，学无止尽不是嘛？
+    在忙碌的同时，请别忘了生活，在生活的时候，珍惜身边的人。没必要争锋相对，毕竟生活是自己的。
+    作者准备结婚了，祝福自己也祝福各位~~~~
+To 2025 Everyone
+
+```
 
 JDK1.8 win7/10/11测试暂无问题
 
 ```txt
-1. Check All_Dirs unauthorized (167)；
-2. POC(20+)；
-2. Methods for Whitening or Ignoring SSL/TLS Certificate Issues；
 
-Tools By：Cllmsy_K;
-该工具仅检测网站是否存在安全漏洞，仅用作授权测试;严禁用于非法途径，严禁用于商业目的，否则后果自负;
-```
-```txt
 更新日志  【Bug反馈请点击Help关于处联系作者】
 ==========================================
-Top&NSdemon YYBaby_v0.9 Spring_Scan Tools (春天大宝贝)
+Top&NSdemon YYBaby_v1.0.0 Spring_Scan Tools (春天大宝贝)
 
 1. Check All_Dirs unauthorized (167)；
-2. POC(20+)；
+2. POC(25+)；
 2. Methods for Whitening or Ignoring SSL/TLS Certificate Issues；
 
 Tools By：Cllmsy_K;
@@ -38,19 +41,18 @@ Tools By：Cllmsy_K;
 2024/06/07/23:35_更新0.7,新增项目实战中发现的几个路由,感谢0.4版本反馈UI界面bug,已添加使用提示;
 2024/06/08/22:34_更新0.8,新增heapdump内存分析内置,添加文件读取利用方式;修复文件读取bug;增添bypass_pyload,bypass_dir;
 2024/06/10/00:02_更新0.9,修复路由扫描bug,新增YAML_RCE,H2_Database_JNDI;新增CVE-2024-22243和CVE-2024-22257;
+2024/12/31/23:37_内存分析改用关键字自动化添加;新增CVE-2014-3578;CVE-2018-1259;
+2025/01/15/11:00_新增CVE-2019-3799;CVE-2019-3778;CVE_2024_38816;CVE-2020-5410;
+2025/03/04/20:41_更新1.0,添加多线程,默认线程为3,添加代理功能;
 
 ```
-Tools:
-
-![v](https://github.com/user-attachments/assets/6425c78d-dd28-4143-88b1-694ab562892e)
-
-
-交流群：
-
-![qq](https://github.com/user-attachments/assets/2a3d2515-7976-4b5f-ae61-50c350194fd6) 
-
-![v](https://github.com/user-attachments/assets/ca204079-c86f-4f4c-b6a9-47bbf819aca6)
-
+### Tools:
+![First](https://github.com/user-attachments/assets/d9684b75-d556-4e12-ac46-3edad0ee78e1)
+![Read](https://github.com/user-attachments/assets/14959e3a-efd3-4626-9b5c-90f5b8f6dafd)
+### Scan:
+![Scan](https://github.com/user-attachments/assets/b65e7c67-315c-4da3-8859-80066cc48723)
+### 分析：
+![dump](https://github.com/user-attachments/assets/b301c8e7-9b8c-40c7-8340-92af66e9e305)
 
 
 
